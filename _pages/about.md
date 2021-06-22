@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-About me
-======
 Hi!  I'm a researcher on energy transition, with a special interests in Smart Grids, electro-mobility and renewable energy resources.
 I like to address issues both on the technical (optimization, modelling) and the economic and regulatory (electricity markets, policy implications) sides.
 
