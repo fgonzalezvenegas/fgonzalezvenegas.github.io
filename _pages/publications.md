@@ -14,6 +14,7 @@ author_profile: true
 # Journal articles
 
 {% for post in site.publications reversed %}
+{if post.collection == 'publications'}
   {% include archive-single.html %}
 {% endfor %}
 
