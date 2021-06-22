@@ -1,6 +1,6 @@
 ---
 title: "Participation of electric vehicle fleets in local flexibility tenders: Analyzing barriers to entry and workable solutions"
-collection: publications
+collection: workingpapers
 permalink: /publication/Feb. 2021-FSRWP
 date: Feb. 2021
 venue: 'EUI-FSR Working Papers'
