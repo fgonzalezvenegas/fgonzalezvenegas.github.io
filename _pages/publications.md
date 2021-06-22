@@ -19,6 +19,7 @@ author_profile: true
  {% endif %}
 {% endfor %}
 
+
 # Working papers
 
 {% for post in site.workingpapers reversed %}
@@ -26,6 +27,7 @@ author_profile: true
   {% include archive-single.html %}
    {% endif %}
 {% endfor %}
+
 
 # International conferences
 
