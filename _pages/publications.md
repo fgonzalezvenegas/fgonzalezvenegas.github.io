@@ -16,6 +16,7 @@ author_profile: true
 {% for post in site.publications reversed %}
 {if post.collection == 'publications'}
   {% include archive-single.html %}
+ {% endif %}
 {% endfor %}
 
 # Working papers
