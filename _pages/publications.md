@@ -32,5 +32,7 @@ author_profile: true
 # International conferences
 
 {% for post in site.confs reversed %}
+  {% if post.collection == 'workingpapers' %}
     {% include archive-single.html %}
+   {% endif %}
 {% endfor %}
