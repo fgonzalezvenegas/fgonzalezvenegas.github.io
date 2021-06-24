@@ -15,4 +15,4 @@ In the last three years I've been working on my PhD at Université Paris-Saclay 
 
 Previously I've worked in Chile as a consultant for industry and academia.
 
-Feel free to get in touch! 
+ <a href = "mailto: fgonzalezvenegas@gmail.com">Feel free to get in touch!</a>
