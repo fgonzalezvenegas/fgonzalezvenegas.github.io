@@ -227,6 +227,33 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _techreports
+  - scope:
+      path: ""
+      type: techreports
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _workingpapers
+  - scope:
+      path: ""
+      type: workingpapers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _confs
+  - scope:
+      path: ""
+      type: confs
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
