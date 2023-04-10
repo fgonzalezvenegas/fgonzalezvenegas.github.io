@@ -36,4 +36,11 @@ author_profile: true
    {% endif %}
 {% endfor %}
 
+# Technical reports
+
+{% for post in site.techreports reversed %}
+  {% if post.collection == 'techreports' %}
+    {% include archive-single.html %}
+   {% endif %}
+{% endfor %}
 
