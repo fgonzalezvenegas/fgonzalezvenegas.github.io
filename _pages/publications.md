@@ -11,14 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-# International conferences
-
-{% for post in site.confs reversed %}
-  {% if post.collection == 'confs' %}
-    {% include archive-single.html %}
-   {% endif %}
-{% endfor %}
-
 # Journal articles
 
 {% for post in site.publications reversed %}
@@ -36,5 +28,12 @@ author_profile: true
    {% endif %}
 {% endfor %}
 
+# International conferences
+
+{% for post in site.confs reversed %}
+  {% if post.collection == 'confs' %}
+    {% include archive-single.html %}
+   {% endif %}
+{% endfor %}
 
 
