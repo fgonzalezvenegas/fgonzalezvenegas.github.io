@@ -30,11 +30,11 @@ author_profile: true
 
 # International conferences
 
-#{% for post in site.confs reversed %}
-#  {% if post.collection == 'confs' %}
-#    {% include archive-single.html %}
-#   {% endif %}
-#{% endfor %}
+{% for post in site.confs reversed %}
+  {% if post.collection == 'confs' %}
+    {% include archive-single.html %}
+   {% endif %}
+{% endfor %}
 
 # Technical reports
 
