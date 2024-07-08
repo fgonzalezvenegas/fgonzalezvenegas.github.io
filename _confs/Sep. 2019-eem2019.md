@@ -8,5 +8,3 @@ citation: 'F. Gonzalez Venegas, M. Petit, Y. Perez. &quot;&quot;Can DERs fully p
 ---
 
 <a href='https://doi.org/10.1109/EEM.2019.8916343'>Download paper here</a>
-
-[//]: # (Recommended citation: F. Gonzalez Venegas, M. Petit, Y. Perez. ""Can DERs fully participate in emerging local flexibility tenders?,"" <i>16th International Conference on the European Energy Market EEM</i>, Ljubljana, September 2019)

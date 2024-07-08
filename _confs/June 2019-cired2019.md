@@ -8,5 +8,3 @@ citation: 'F. Gonzalez Venegas, M. Petit, Y. Perez. &quot;&quot;Electric Vehicle
 ---
 
 <a href='https://doi.org/10.34890/554'>Download paper here</a>
-
-[//]: # (Recommended citation: F. Gonzalez Venegas, M. Petit, Y. Perez. ""Electric Vehicles as flexibility providers for distribution systems. A techno-economic review"", <i>25th International Conference on Electricity Distribution CIRED</i>, Madrid, June 2019.)

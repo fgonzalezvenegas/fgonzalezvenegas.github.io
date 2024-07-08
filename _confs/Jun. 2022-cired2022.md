@@ -9,6 +9,4 @@ citation: 'F. Gonzalez Venegas, M. Petit. &quot;Impact of electric vehicle and s
 
 <a href='https://doi.org/10.1049/icp.2022.0842'>Download paper here</a>
 
-[//]: # (Recommended citation: F. Gonzalez Venegas, M. Petit. &quot;Impact of electric vehicle and solar PV in distribution grid. A data-driven survey&quot;, <i>CIRED Porto Workshop 2022: E-mobility and power distribution systems</i>, June 2022)
-
   
