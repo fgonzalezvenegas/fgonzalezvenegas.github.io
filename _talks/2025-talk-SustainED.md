@@ -1,5 +1,4 @@
-\---
-
+---
 title: "Price signals and frameworks to unlock flexibility"
 collection: talks
 type: "Conference"
